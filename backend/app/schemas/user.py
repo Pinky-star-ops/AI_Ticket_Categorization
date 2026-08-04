@@ -19,6 +19,13 @@ class UserResponse(BaseModel):
     name: str
     email: EmailStr
     role: str
+    
+class UserUpdate(BaseModel):
+    name: str
+    
+class ChangePassword(BaseModel):
+    old_password: str
+    new_password: str
 
     class Config:
         from_attributes = True
