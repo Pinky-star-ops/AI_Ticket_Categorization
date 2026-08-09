@@ -5,6 +5,11 @@ from app.models.user import User
 
 from app.routes.auth import router as auth_router
 from app.routes.user import router as user_router
+from app.models import user
+from app.models import category
+from app.models import team
+from app.models import ticket
+from app.models import comment
 
 Base.metadata.create_all(bind=engine)
 
