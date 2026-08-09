@@ -10,6 +10,7 @@ from app.models import category
 from app.models import team
 from app.models import ticket
 from app.models import comment
+from app.routes.ticket import router as ticket_router
 
 Base.metadata.create_all(bind=engine)
 
@@ -20,7 +21,7 @@ app = FastAPI(
 app.include_router(auth_router)
 app.include_router(user_router)
 
-
+app.include_router(ticket_router)
 @app.get("/")
 def home():
     return {
