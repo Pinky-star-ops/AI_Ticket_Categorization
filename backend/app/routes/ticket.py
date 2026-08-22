@@ -1,5 +1,9 @@
+from datetime import date, timedelta
+from typing import Optional
+
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
+
 from app.auth.auth import get_current_user
 from app.models.user import User
 from app.database.database import get_db
@@ -36,12 +40,59 @@ def create_ticket(
 
 @router.get("/", response_model=list[TicketResponse])
 def get_tickets(
+    search: Optional[str] = None,
+    category_id: Optional[int] = None,
+    priority: Optional[str] = None,
+    status_filter: Optional[str] = None,
+    start_date: Optional[date] = None,
+    end_date: Optional[date] = None,
     db: Session = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    tickets = db.query(Ticket).all()
-    return tickets
+    query = db.query(Ticket)
 
+    # Search by title or description
+    if search:
+        search_term = f"%{search}%"
+
+        query = query.filter(
+            (Ticket.title.ilike(search_term)) |
+            (Ticket.description.ilike(search_term))
+        )
+
+    # Category filter
+    if category_id is not None:
+        query = query.filter(
+            Ticket.category_id == category_id
+        )
+
+    # Priority filter
+    if priority:
+        query = query.filter(
+            Ticket.priority == priority
+        )
+
+    # Status filter
+    if status_filter:
+        query = query.filter(
+            Ticket.status == status_filter
+        )
+
+  # Start date
+    if start_date:
+        query = query.filter(
+            Ticket.created_at >= start_date
+        )
+
+    # End date
+    if end_date:
+        query = query.filter(
+            Ticket.created_at < end_date + timedelta(days=1)
+        )
+
+    return query.order_by(
+        Ticket.created_at.desc()
+    ).all()
 
 @router.get("/{ticket_id}", response_model=TicketResponse)
 def get_ticket(
