@@ -12,11 +12,21 @@ const getAuthHeaders = () => {
   };
 };
 
-// GET all tickets
-export const getTickets = async () => {
+// GET tickets with optional filters
+export const getTickets = async (filters = {}) => {
   const response = await axios.get(
     `${API_URL}/tickets/`,
-    getAuthHeaders()
+    {
+      ...getAuthHeaders(),
+      params: {
+        search: filters.search || undefined,
+        category_id: filters.category_id || undefined,
+        priority: filters.priority || undefined,
+        status_filter: filters.status_filter || undefined,
+        start_date: filters.start_date || undefined,
+        end_date: filters.end_date || undefined,
+      },
+    }
   );
 
   return response.data;
