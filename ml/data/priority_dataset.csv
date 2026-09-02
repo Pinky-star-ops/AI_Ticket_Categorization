@@ -1,0 +1,46 @@
+text,priority
+Production database crashed,Critical
+Production server is completely down,Critical
+Database server is not responding,Critical
+All users are unable to login,Critical
+Payment gateway is completely down,Critical
+Company website is unavailable,Critical
+Production application has crashed,Critical
+Critical server failure in production,Critical
+Data loss detected in production,Critical
+Major security breach detected,Critical
+Multiple users cannot access production,Critical
+Live server is down,Critical
+Application crashed for all users,Critical
+Database connection completely failed,Critical
+Production service is unavailable,Critical
+Email service is down for entire company,High
+Payment processing is failing,High
+Users are experiencing login failures,High
+Application server is unstable,High
+API requests are failing frequently,High
+Customer portal is not working properly,High
+Several users cannot access the application,High
+Reports are failing to generate,High
+File upload service is failing,High
+Notifications are not being delivered,High
+Application performance has degraded,Medium
+The application is running slowly,Medium
+Dashboard takes too long to load,Medium
+Search functionality is slow,Medium
+Reports are taking longer than usual,Medium
+Some pages are loading slowly,Medium
+Occasional timeout while using application,Medium
+Minor application performance issue,Medium
+User interface is responding slowly,Medium
+Data synchronization is delayed,Medium
+Need help updating my profile,Low
+Request to change account information,Low
+How can I reset my preferences,Low
+Need assistance with profile settings,Low
+Request for application information,Low
+How do I change my username,Low
+Need help updating contact details,Low
+Request for a new application feature,Low
+How can I update my notification settings,Low
+Need instructions for using the dashboard,Low
