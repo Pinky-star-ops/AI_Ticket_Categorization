@@ -1,0 +1,801 @@
+subject,description,category,priority
+General IT request,I have an IT issue that does not fit into another category. Please investigate this problem.,Other,MEDIUM
+Server access denied,I need access to an internal company system.,Access,MEDIUM
+Emails delayed,My mailbox is full and I cannot receive new messages. The issue started recently.,Email,HIGH
+Headset not working,My laptop battery is draining very quickly. I need assistance as soon as possible.,Hardware,MEDIUM
+Email attachment problem,I cannot access my company mailbox. The issue started recently.,Email,HIGH
+Password expired,My account has been locked after several unsuccessful login attempts. The issue started recently.,Account,LOW
+Malware warning,An unknown sender sent me a suspicious attachment. I need assistance as soon as possible.,Security,MEDIUM
+Miscellaneous IT issue,I would like to request new computer equipment. Please investigate this problem.,Other,MEDIUM
+Software compatibility issue,The application freezes whenever I try to use it. I need assistance as soon as possible.,Software,HIGH
+Username issue,I cannot log into my company account. This is affecting my work.,Account,LOW
+IT assistance required,I would like to request new computer equipment.,Other,HIGH
+Application showing error,The latest software update failed to install. The issue started recently.,Software,HIGH
+Cannot connect to office network,I cannot connect to the company server. I need assistance as soon as possible.,Network,LOW
+VPN connection failed,I do not have access to the internet. Please help me resolve this issue.,Network,MEDIUM
+Account locked,I need help recovering my company account. This is affecting my work.,Account,MEDIUM
+IT assistance required,I need assistance setting up a new computer. Please help me resolve this issue.,Other,HIGH
+Suspicious attachment,I received an alert about an unknown login to my account. The issue started recently.,Security,MEDIUM
+Software installation failed,The application displays an error whenever I perform an operation. Please help me resolve this issue.,Software,MEDIUM
+New equipment request,I need assistance setting up a new computer.,Other,HIGH
+Browser not working,I am unable to install the required software on my computer.,Software,MEDIUM
+Suspicious attachment,I received an email containing a suspicious link. Please investigate this problem.,Security,HIGH
+Phishing link received,I received an alert about an unknown login to my account.,Security,MEDIUM
+Access denied error,Access to the server is being denied. This is affecting my work.,Access,MEDIUM
+Mouse not responding,My computer has become extremely slow recently. This is affecting my work.,Hardware,MEDIUM
+Program will not open,The software does not appear to be compatible with my system. The issue started recently.,Software,MEDIUM
+Cannot send email,Outlook does not open when I click on it. Please help me resolve this issue.,Email,MEDIUM
+Windows error,My web browser is not working correctly. I need assistance as soon as possible.,Software,LOW
+Unknown login detected,I received an alert about an unknown login to my account. Please investigate this problem.,Security,CRITICAL
+Wi-Fi not working,The Wi-Fi disconnects every few minutes. Please investigate this problem.,Network,HIGH
+IT information request,I need assistance setting up a new computer. The issue started recently.,Other,HIGH
+Mouse not responding,I am having problems with the hard drive on my computer. The issue started recently.,Hardware,LOW
+Mouse not responding,My mouse is connected but is not responding.,Hardware,HIGH
+Wi-Fi keeps disconnecting,The network connection keeps dropping frequently.,Network,LOW
+Application freezing,The application displays an error whenever I perform an operation. Please help me resolve this issue.,Software,MEDIUM
+Password expired,My password has expired and I cannot access my account.,Account,MEDIUM
+Equipment replacement request,I need assistance setting up a new computer. Please help me resolve this issue.,Other,HIGH
+Internet connection unavailable,I do not have access to the internet. Please investigate this problem.,Network,HIGH
+Laptop overheating,Several keys on my keyboard have stopped working. Please help me resolve this issue.,Hardware,MEDIUM
+Browser not working,Windows is showing an unexpected error message.,Software,HIGH
+Unable to access server,I cannot connect to the company VPN from home. I need assistance as soon as possible.,Network,MEDIUM
+Computer setup request,I need assistance setting up a new computer. I need assistance as soon as possible.,Other,MEDIUM
+DNS problem,Network requests are timing out repeatedly. Please investigate this problem.,Network,MEDIUM
+Software update failed,The application freezes whenever I try to use it. Please investigate this problem.,Software,MEDIUM
+Windows error,The application crashes every time I try to open it. I need assistance as soon as possible.,Software,LOW
+Username issue,I need help recovering my company account.,Account,MEDIUM
+VPN connection failed,The network connection keeps dropping frequently. Please investigate this problem.,Network,LOW
+New employee IT setup,I have an IT issue that does not fit into another category. This is affecting my work.,Other,LOW
+Access to shared drive required,I receive an access denied error when opening the resource.,Access,MEDIUM
+Possible virus,I received an alert about an unknown login to my account. Please help me resolve this issue.,Security,HIGH
+Mailbox full,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,HIGH
+Unable to authenticate,I cannot log into my company account.,Account,MEDIUM
+Password reset required,The system is unable to authenticate my account. I need assistance as soon as possible.,Account,LOW
+Cannot send email,My emails are not synchronizing correctly. Please investigate this problem.,Email,HIGH
+Monitor not displaying,My headset is not detected by my computer. Please help me resolve this issue.,Hardware,MEDIUM
+Application keeps crashing,The program refuses to open on my laptop. The issue started recently.,Software,MEDIUM
+Software compatibility issue,The latest software update failed to install. Please investigate this problem.,Software,HIGH
+Password reset required,I need assistance resetting my account password. This is affecting my work.,Account,HIGH
+Excel not responding,My web browser is not working correctly. I need assistance as soon as possible.,Software,MEDIUM
+Phishing link received,I received an alert about an unknown login to my account. I need assistance as soon as possible.,Security,HIGH
+New equipment request,I need some information regarding an IT service. Please investigate this problem.,Other,MEDIUM
+Computer setup request,I need assistance setting up a new computer. The issue started recently.,Other,LOW
+Slow internet,I am having a DNS resolution problem. Please help me resolve this issue.,Network,MEDIUM
+Cannot send email,New emails are not appearing in my inbox. This is affecting my work.,Email,MEDIUM
+Need access to company system,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,HIGH
+Internet connection unavailable,Network requests are timing out repeatedly. The issue started recently.,Network,HIGH
+Laptop overheating,I am having problems with the hard drive on my computer.,Hardware,LOW
+Network connection dropping,Network requests are timing out repeatedly. Please help me resolve this issue.,Network,HIGH
+Suspicious attachment,I think I may have received a phishing message. I need assistance as soon as possible.,Security,HIGH
+Laptop overheating,My headset is not detected by my computer.,Hardware,MEDIUM
+Application freezing,The program refuses to open on my laptop. I need assistance as soon as possible.,Software,MEDIUM
+Software installation failed,The application freezes whenever I try to use it. Please investigate this problem.,Software,MEDIUM
+DNS problem,My computer cannot connect to the company network. The issue started recently.,Network,HIGH
+Mailbox full,My emails are not synchronizing correctly. Please help me resolve this issue.,Email,LOW
+Unable to access application,I need permission to use the required company application. Please help me resolve this issue.,Access,MEDIUM
+Mailbox full,I cannot send emails from my company account. I need assistance as soon as possible.,Email,HIGH
+Password expired,My account has been locked after several unsuccessful login attempts. The issue started recently.,Account,MEDIUM
+DNS problem,The network connection keeps dropping frequently.,Network,LOW
+Possible virus,An unknown sender sent me a suspicious attachment.,Security,HIGH
+Security incident,My computer is showing a possible malware warning. I need assistance as soon as possible.,Security,CRITICAL
+Program will not open,Windows is showing an unexpected error message. Please help me resolve this issue.,Software,HIGH
+DNS problem,Network requests are timing out repeatedly. This is affecting my work.,Network,LOW
+Software compatibility issue,The application freezes whenever I try to use it. Please help me resolve this issue.,Software,MEDIUM
+Possible virus,An unknown sender sent me a suspicious attachment. I need assistance as soon as possible.,Security,HIGH
+IT assistance required,I have a general IT support request. Please investigate this problem.,Other,MEDIUM
+New employee IT setup,I have an IT issue that does not fit into another category. Please investigate this problem.,Other,HIGH
+Keyboard not working,The monitor is connected but nothing is displayed.,Hardware,HIGH
+Laptop not turning on,The monitor is connected but nothing is displayed.,Hardware,LOW
+Computer setup request,I need some information regarding an IT service. This is affecting my work.,Other,HIGH
+Security incident,I received an alert about an unknown login to my account.,Security,MEDIUM
+Possible phishing attack,I received an email containing a suspicious link. Please investigate this problem.,Security,HIGH
+Forgot password,I need assistance resetting my account password. Please investigate this problem.,Account,LOW
+Application showing error,Excel stops responding when I open a large spreadsheet. I need assistance as soon as possible.,Software,HIGH
+Possible virus,I think my computer may have a virus. Please help me resolve this issue.,Security,HIGH
+Access to shared drive required,I cannot open an important file because of permission restrictions. This is affecting my work.,Access,MEDIUM
+Possible phishing attack,I received an alert about an unknown login to my account. I need assistance as soon as possible.,Security,CRITICAL
+Program will not open,The latest software update failed to install. I need assistance as soon as possible.,Software,HIGH
+Employee account problem,I cannot log into my company account. The issue started recently.,Account,LOW
+Mailbox full,I cannot send emails from my company account. This is affecting my work.,Email,LOW
+Unable to access server,I am having a DNS resolution problem. Please investigate this problem.,Network,HIGH
+Password expired,I forgot my company account password and need it reset. Please help me resolve this issue.,Account,MEDIUM
+Hard drive issue,My computer has become extremely slow recently. Please help me resolve this issue.,Hardware,HIGH
+New equipment request,Please provide technical support for my workstation. Please help me resolve this issue.,Other,LOW
+Browser not working,The application freezes whenever I try to use it. I need assistance as soon as possible.,Software,HIGH
+Computer setup request,I have a general IT support request. This is affecting my work.,Other,HIGH
+Mailbox full,Outlook does not open when I click on it. Please investigate this problem.,Email,LOW
+Outlook keeps crashing,My mailbox is full and I cannot receive new messages.,Email,MEDIUM
+New employee IT setup,Please provide technical support for my workstation. The issue started recently.,Other,HIGH
+Cannot access mailbox,My emails are not synchronizing correctly. Please investigate this problem.,Email,HIGH
+Slow internet,I am having a DNS resolution problem. Please investigate this problem.,Network,HIGH
+Printer not working,My headset is not detected by my computer. The issue started recently.,Hardware,LOW
+New equipment request,I have a general IT support request. This is affecting my work.,Other,MEDIUM
+Suspicious email received,I received a suspicious email that appears to be a phishing attempt.,Security,HIGH
+Slow internet,Network requests are timing out repeatedly. The issue started recently.,Network,HIGH
+Security alert,I received an email containing a suspicious link. This is affecting my work.,Security,HIGH
+IT assistance required,I would like to request new computer equipment. Please investigate this problem.,Other,MEDIUM
+Application showing error,Windows is showing an unexpected error message.,Software,MEDIUM
+Server access denied,I need access to an internal company system. The issue started recently.,Access,LOW
+Server access denied,I am unable to access the company database. This is affecting my work.,Access,LOW
+Account recovery request,My login credentials are not being accepted.,Account,HIGH
+Phishing link received,There may have been unauthorized access to my account.,Security,HIGH
+Email attachment problem,Outlook does not open when I click on it. Please investigate this problem.,Email,MEDIUM
+Cannot login,My login credentials are not being accepted.,Account,LOW
+Network timeout,I do not have access to the internet. This is affecting my work.,Network,LOW
+Suspicious attachment,I received a security alert that I do not recognize. Please help me resolve this issue.,Security,HIGH
+Account locked,My password has expired and I cannot access my account. Please help me resolve this issue.,Account,LOW
+General support request,I would like to request new computer equipment. Please help me resolve this issue.,Other,MEDIUM
+Login credentials not working,My login credentials are not being accepted. The issue started recently.,Account,HIGH
+Access to shared drive required,I need access to an internal company system. The issue started recently.,Access,HIGH
+Possible phishing attack,I received an email containing a suspicious link. This is affecting my work.,Security,HIGH
+Software installation failed,The application freezes whenever I try to use it. Please help me resolve this issue.,Software,HIGH
+Password expired,There appears to be a problem with my employee account. Please help me resolve this issue.,Account,HIGH
+General support request,I have a general IT support request. Please investigate this problem.,Other,MEDIUM
+Cannot connect to office network,I do not have access to the internet.,Network,LOW
+Software compatibility issue,The application displays an error whenever I perform an operation.,Software,MEDIUM
+Forgot password,I need help recovering my company account.,Account,HIGH
+VPN connection failed,The Wi-Fi disconnects every few minutes. The issue started recently.,Network,LOW
+Access to shared drive required,I cannot open an important file because of permission restrictions. Please help me resolve this issue.,Access,LOW
+Monitor not displaying,My headset is not detected by my computer.,Hardware,LOW
+Application freezing,Excel stops responding when I open a large spreadsheet.,Software,LOW
+Wi-Fi not working,The internet connection is extremely slow. This is affecting my work.,Network,HIGH
+IT assistance required,I have an IT issue that does not fit into another category. Please investigate this problem.,Other,MEDIUM
+Excel not responding,The software does not appear to be compatible with my system. This is affecting my work.,Software,HIGH
+Suspicious attachment,My computer is showing a possible malware warning.,Security,MEDIUM
+Login credentials not working,I need assistance resetting my account password. This is affecting my work.,Account,MEDIUM
+Account locked,The system is unable to authenticate my account. The issue started recently.,Account,LOW
+Computer setup request,I need assistance setting up a new computer. The issue started recently.,Other,LOW
+Email attachment problem,My emails are being delivered very slowly. This is affecting my work.,Email,HIGH
+Employee account problem,There appears to be a problem with my employee account. This is affecting my work.,Account,LOW
+Application showing error,The program refuses to open on my laptop.,Software,MEDIUM
+Employee account problem,I am having an issue with my username. The issue started recently.,Account,MEDIUM
+Computer running slowly,My headset is not detected by my computer. Please help me resolve this issue.,Hardware,MEDIUM
+New employee IT setup,I need assistance setting up a new computer. I need assistance as soon as possible.,Other,HIGH
+Permission request,I need access to the team's shared drive. This is affecting my work.,Access,LOW
+New equipment request,I need assistance setting up a new computer. This is affecting my work.,Other,MEDIUM
+Password reset required,I need assistance resetting my account password. The issue started recently.,Account,HIGH
+Shared folder access denied,I need access to the team's shared drive. The issue started recently.,Access,HIGH
+Unknown login detected,I received a security alert that I do not recognize. Please help me resolve this issue.,Security,HIGH
+Monitor not displaying,My mouse is connected but is not responding. I need assistance as soon as possible.,Hardware,HIGH
+Phishing link received,I received an email containing a suspicious link. Please investigate this problem.,Security,CRITICAL
+Need access to company system,I receive an access denied error when opening the resource. Please help me resolve this issue.,Access,LOW
+Mailbox full,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,MEDIUM
+Program will not open,I am unable to install the required software on my computer. Please investigate this problem.,Software,MEDIUM
+Access to shared drive required,I am unable to access the company database. The issue started recently.,Access,LOW
+File permission issue,I cannot access the shared folder used by my team. Please investigate this problem.,Access,HIGH
+Cannot access mailbox,I am unable to send an email attachment. Please help me resolve this issue.,Email,HIGH
+Emails delayed,I cannot access my company mailbox.,Email,HIGH
+Hard drive issue,Several keys on my keyboard have stopped working. Please help me resolve this issue.,Hardware,MEDIUM
+Browser not working,I am unable to install the required software on my computer. This is affecting my work.,Software,MEDIUM
+DNS problem,The internet connection is extremely slow. This is affecting my work.,Network,LOW
+Computer running slowly,My mouse is connected but is not responding. I need assistance as soon as possible.,Hardware,MEDIUM
+Internet connection unavailable,The network connection keeps dropping frequently. Please help me resolve this issue.,Network,HIGH
+Email synchronization issue,I cannot access my company mailbox. This is affecting my work.,Email,MEDIUM
+Suspicious attachment,I think I may have received a phishing message. This is affecting my work.,Security,CRITICAL
+Cannot login,My account has been locked after several unsuccessful login attempts. Please help me resolve this issue.,Account,HIGH
+Laptop battery problem,My laptop battery is draining very quickly. The issue started recently.,Hardware,MEDIUM
+Software compatibility issue,The application crashes every time I try to open it. I need assistance as soon as possible.,Software,HIGH
+Unknown login detected,I received an email containing a suspicious link. Please help me resolve this issue.,Security,HIGH
+Cannot access mailbox,My mailbox is full and I cannot receive new messages. The issue started recently.,Email,HIGH
+Unable to access application,I need access to the team's shared drive. I need assistance as soon as possible.,Access,MEDIUM
+Access denied error,Access to the server is being denied. Please help me resolve this issue.,Access,MEDIUM
+Browser not working,Excel stops responding when I open a large spreadsheet. This is affecting my work.,Software,MEDIUM
+Unauthorized access,I received a security alert that I do not recognize. The issue started recently.,Security,HIGH
+Emails delayed,I cannot send emails from my company account. This is affecting my work.,Email,LOW
+Application keeps crashing,The latest software update failed to install. I need assistance as soon as possible.,Software,MEDIUM
+Email notifications not working,Outlook does not open when I click on it. The issue started recently.,Email,MEDIUM
+General IT request,I have a general IT support request. I need assistance as soon as possible.,Other,HIGH
+Cannot send email,My mailbox is full and I cannot receive new messages. This is affecting my work.,Email,HIGH
+Internet connection unavailable,I am having a DNS resolution problem. The issue started recently.,Network,MEDIUM
+Application showing error,The latest software update failed to install. The issue started recently.,Software,MEDIUM
+Network connection dropping,The Wi-Fi disconnects every few minutes.,Network,HIGH
+Printer not working,My laptop battery is draining very quickly. The issue started recently.,Hardware,LOW
+IT assistance required,Please provide technical support for my workstation. Please help me resolve this issue.,Other,MEDIUM
+Malware warning,I received an email containing a suspicious link. This is affecting my work.,Security,HIGH
+Network timeout,I do not have access to the internet. This is affecting my work.,Network,HIGH
+Email synchronization issue,New emails are not appearing in my inbox. Please help me resolve this issue.,Email,HIGH
+DNS problem,I cannot connect to the company VPN from home. Please investigate this problem.,Network,HIGH
+Slow internet,I am having a DNS resolution problem. I need assistance as soon as possible.,Network,LOW
+Internet connection unavailable,The Wi-Fi disconnects every few minutes. I need assistance as soon as possible.,Network,MEDIUM
+Cannot receive email,My emails are being delivered very slowly. The issue started recently.,Email,MEDIUM
+Keyboard not working,My laptop does not turn on when I press the power button. The issue started recently.,Hardware,HIGH
+IT assistance required,I have an IT issue that does not fit into another category. I need assistance as soon as possible.,Other,MEDIUM
+Server access denied,Access to the server is being denied. The issue started recently.,Access,MEDIUM
+Suspicious attachment,My computer is showing a possible malware warning. Please investigate this problem.,Security,CRITICAL
+Cannot connect to office network,I do not have access to the internet.,Network,LOW
+Security alert,I think I may have received a phishing message. Please help me resolve this issue.,Security,CRITICAL
+Unable to access application,The application says that I do not have permission to access it. Please investigate this problem.,Access,HIGH
+VPN connection failed,I do not have access to the internet. This is affecting my work.,Network,HIGH
+Application freezing,The software does not appear to be compatible with my system. Please investigate this problem.,Software,LOW
+Application showing error,The software does not appear to be compatible with my system.,Software,MEDIUM
+Access to shared drive required,I cannot open an important file because of permission restrictions. The issue started recently.,Access,MEDIUM
+Password expired,I forgot my company account password and need it reset. Please investigate this problem.,Account,MEDIUM
+Software compatibility issue,The application displays an error whenever I perform an operation. I need assistance as soon as possible.,Software,LOW
+Excel not responding,The application freezes whenever I try to use it. This is affecting my work.,Software,MEDIUM
+Permission request,I need access to an internal company system. The issue started recently.,Access,HIGH
+Laptop overheating,Several keys on my keyboard have stopped working. I need assistance as soon as possible.,Hardware,MEDIUM
+Security alert,I think my computer may have a virus. Please investigate this problem.,Security,HIGH
+Email notifications not working,My mailbox is full and I cannot receive new messages. Please help me resolve this issue.,Email,HIGH
+Unable to authenticate,I cannot log into my company account. This is affecting my work.,Account,LOW
+Employee account problem,I need help recovering my company account. This is affecting my work.,Account,LOW
+Email attachment problem,My mailbox is full and I cannot receive new messages. The issue started recently.,Email,MEDIUM
+Login credentials not working,I forgot my company account password and need it reset. Please help me resolve this issue.,Account,LOW
+Login credentials not working,The system is unable to authenticate my account. Please investigate this problem.,Account,HIGH
+Wi-Fi not working,The network connection keeps dropping frequently. Please investigate this problem.,Network,HIGH
+Forgot password,My account has been locked after several unsuccessful login attempts. Please investigate this problem.,Account,HIGH
+Printer not working,Several keys on my keyboard have stopped working. Please investigate this problem.,Hardware,MEDIUM
+General IT request,I need some information regarding an IT service.,Other,LOW
+Shared folder access denied,Access to the server is being denied.,Access,HIGH
+Need access to company system,I would like to request access to a company resource. I need assistance as soon as possible.,Access,HIGH
+Computer setup request,Please provide technical support for my workstation.,Other,LOW
+Suspicious attachment,I received a security alert that I do not recognize. This is affecting my work.,Security,HIGH
+Unauthorized access,I received an email containing a suspicious link. The issue started recently.,Security,HIGH
+Cannot access mailbox,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,MEDIUM
+Possible virus,I received an alert about an unknown login to my account. This is affecting my work.,Security,MEDIUM
+Software compatibility issue,The application displays an error whenever I perform an operation. I need assistance as soon as possible.,Software,LOW
+Keyboard not working,The office printer is not printing my documents. Please help me resolve this issue.,Hardware,MEDIUM
+Account locked,My password has expired and I cannot access my account. The issue started recently.,Account,MEDIUM
+Password expired,I am having an issue with my username. Please investigate this problem.,Account,LOW
+Printer not working,My mouse is connected but is not responding. Please investigate this problem.,Hardware,HIGH
+Unauthorized access,I received a suspicious email that appears to be a phishing attempt. This is affecting my work.,Security,MEDIUM
+Miscellaneous IT issue,I need some information regarding an IT service. Please help me resolve this issue.,Other,HIGH
+Username issue,I need help recovering my company account.,Account,LOW
+Network timeout,Network requests are timing out repeatedly.,Network,MEDIUM
+Cannot access mailbox,My emails are being delivered very slowly. The issue started recently.,Email,HIGH
+Application permission required,I would like to request access to a company resource. The issue started recently.,Access,MEDIUM
+Headset not working,The monitor is connected but nothing is displayed. Please help me resolve this issue.,Hardware,MEDIUM
+Account recovery request,I need assistance resetting my account password. This is affecting my work.,Account,MEDIUM
+Wi-Fi keeps disconnecting,My laptop is unable to connect to the office Wi-Fi. Please help me resolve this issue.,Network,MEDIUM
+Login credentials not working,I need assistance resetting my account password. Please help me resolve this issue.,Account,LOW
+General IT request,A new employee needs their computer and IT services configured. This is affecting my work.,Other,LOW
+Unauthorized access,An unknown sender sent me a suspicious attachment.,Security,CRITICAL
+Phishing link received,I received a security alert that I do not recognize. Please help me resolve this issue.,Security,MEDIUM
+Security incident,I received an alert about an unknown login to my account.,Security,HIGH
+Outlook not opening,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,HIGH
+Software compatibility issue,The application displays an error whenever I perform an operation. Please investigate this problem.,Software,HIGH
+Monitor not displaying,My laptop battery is draining very quickly. Please help me resolve this issue.,Hardware,HIGH
+Email notifications not working,I am not receiving notifications for new emails. This is affecting my work.,Email,LOW
+Access to shared drive required,I cannot access the shared folder used by my team. The issue started recently.,Access,HIGH
+DNS problem,The internet connection is extremely slow. Please investigate this problem.,Network,MEDIUM
+Account locked,My login credentials are not being accepted. Please investigate this problem.,Account,HIGH
+Monitor not displaying,My mouse is connected but is not responding. I need assistance as soon as possible.,Hardware,HIGH
+Suspicious attachment,I think my computer may have a virus. The issue started recently.,Security,CRITICAL
+Cannot access mailbox,My emails are not synchronizing correctly. Please investigate this problem.,Email,LOW
+Software installation failed,The application crashes every time I try to open it. Please help me resolve this issue.,Software,LOW
+Unable to access server,The Wi-Fi disconnects every few minutes.,Network,HIGH
+Laptop not turning on,My laptop is getting very hot during normal usage. The issue started recently.,Hardware,MEDIUM
+Computer setup request,I need assistance setting up a new computer. Please investigate this problem.,Other,MEDIUM
+Browser not working,The program refuses to open on my laptop. Please investigate this problem.,Software,HIGH
+Server access denied,I cannot access the shared folder used by my team. Please investigate this problem.,Access,LOW
+Unknown login detected,There may have been unauthorized access to my account. Please investigate this problem.,Security,MEDIUM
+Security incident,I received a suspicious email that appears to be a phishing attempt. Please investigate this problem.,Security,HIGH
+Phishing link received,An unknown sender sent me a suspicious attachment. Please investigate this problem.,Security,HIGH
+Laptop not turning on,My laptop does not turn on when I press the power button. Please help me resolve this issue.,Hardware,MEDIUM
+Unable to authenticate,My account has been locked after several unsuccessful login attempts.,Account,LOW
+Username issue,I need help recovering my company account. The issue started recently.,Account,LOW
+Wi-Fi not working,My laptop is unable to connect to the office Wi-Fi. I need assistance as soon as possible.,Network,HIGH
+Suspicious attachment,My computer is showing a possible malware warning. Please investigate this problem.,Security,HIGH
+Monitor not displaying,My mouse is connected but is not responding.,Hardware,HIGH
+Network connection dropping,I am having a DNS resolution problem.,Network,LOW
+New equipment request,I need some information regarding an IT service. Please help me resolve this issue.,Other,MEDIUM
+Technical help needed,A new employee needs their computer and IT services configured. I need assistance as soon as possible.,Other,MEDIUM
+Access to shared drive required,I cannot open an important file because of permission restrictions.,Access,MEDIUM
+Laptop overheating,Several keys on my keyboard have stopped working. This is affecting my work.,Hardware,MEDIUM
+Laptop overheating,Several keys on my keyboard have stopped working. This is affecting my work.,Hardware,MEDIUM
+Mailbox full,My emails are not synchronizing correctly. This is affecting my work.,Email,LOW
+Suspicious attachment,I received an alert about an unknown login to my account. This is affecting my work.,Security,HIGH
+Server access denied,Access to the server is being denied. This is affecting my work.,Access,MEDIUM
+Network connection dropping,Network requests are timing out repeatedly. I need assistance as soon as possible.,Network,HIGH
+Laptop not turning on,Several keys on my keyboard have stopped working. The issue started recently.,Hardware,MEDIUM
+Login credentials not working,I need help recovering my company account. Please help me resolve this issue.,Account,LOW
+Need access to company system,I need access to an internal company system.,Access,LOW
+Software compatibility issue,My web browser is not working correctly.,Software,MEDIUM
+Application freezing,I am unable to install the required software on my computer. This is affecting my work.,Software,LOW
+Headset not working,My laptop is getting very hot during normal usage. The issue started recently.,Hardware,MEDIUM
+Computer running slowly,My laptop battery is draining very quickly.,Hardware,LOW
+Software installation failed,The application freezes whenever I try to use it. This is affecting my work.,Software,MEDIUM
+Excel not responding,The latest software update failed to install.,Software,MEDIUM
+Software compatibility issue,The program refuses to open on my laptop. The issue started recently.,Software,HIGH
+Unable to access server,I am having a DNS resolution problem. The issue started recently.,Network,HIGH
+Outlook keeps crashing,I cannot send emails from my company account. Please investigate this problem.,Email,HIGH
+Cannot access database,The application says that I do not have permission to access it. I need assistance as soon as possible.,Access,HIGH
+Emails delayed,My emails are not synchronizing correctly. I need assistance as soon as possible.,Email,HIGH
+IT information request,Please provide technical support for my workstation.,Other,LOW
+Email attachment problem,I cannot send emails from my company account.,Email,HIGH
+Suspicious attachment,There may have been unauthorized access to my account. Please help me resolve this issue.,Security,HIGH
+Cannot receive email,Outlook crashes whenever I try to launch it. This is affecting my work.,Email,LOW
+Miscellaneous IT issue,I would like to request new computer equipment. This is affecting my work.,Other,MEDIUM
+Cannot send email,New emails are not appearing in my inbox. Please investigate this problem.,Email,HIGH
+Unable to access application,I receive an access denied error when opening the resource. The issue started recently.,Access,MEDIUM
+Cannot send email,I cannot access my company mailbox. I need assistance as soon as possible.,Email,LOW
+Server access denied,Access to the server is being denied. The issue started recently.,Access,MEDIUM
+Security alert,My computer is showing a possible malware warning.,Security,HIGH
+Cannot receive email,Outlook crashes whenever I try to launch it. I need assistance as soon as possible.,Email,HIGH
+Windows error,Excel stops responding when I open a large spreadsheet.,Software,LOW
+Account locked,There appears to be a problem with my employee account. Please help me resolve this issue.,Account,HIGH
+Laptop battery problem,My headset is not detected by my computer. Please help me resolve this issue.,Hardware,HIGH
+Account locked,My password has expired and I cannot access my account.,Account,HIGH
+Unable to access application,Access to the server is being denied. This is affecting my work.,Access,HIGH
+Server access denied,I need access to an internal company system. Please help me resolve this issue.,Access,HIGH
+Unable to access application,I cannot open an important file because of permission restrictions. Please help me resolve this issue.,Access,LOW
+Network timeout,The internet connection is extremely slow. Please investigate this problem.,Network,HIGH
+Software compatibility issue,The software does not appear to be compatible with my system.,Software,LOW
+Email notifications not working,Outlook crashes whenever I try to launch it. The issue started recently.,Email,HIGH
+Password expired,There appears to be a problem with my employee account. The issue started recently.,Account,LOW
+Server access denied,I need access to an internal company system. This is affecting my work.,Access,HIGH
+Username issue,I forgot my company account password and need it reset. The issue started recently.,Account,LOW
+Access to shared drive required,Access to the server is being denied. Please help me resolve this issue.,Access,MEDIUM
+Monitor not displaying,My laptop is getting very hot during normal usage. This is affecting my work.,Hardware,MEDIUM
+Access denied error,I need access to an internal company system. The issue started recently.,Access,HIGH
+Suspicious attachment,An unknown sender sent me a suspicious attachment. Please investigate this problem.,Security,MEDIUM
+Email attachment problem,I cannot send emails from my company account. I need assistance as soon as possible.,Email,MEDIUM
+Computer setup request,I would like to request new computer equipment. The issue started recently.,Other,MEDIUM
+Application freezing,The application crashes every time I try to open it. Please investigate this problem.,Software,LOW
+Browser not working,Excel stops responding when I open a large spreadsheet. I need assistance as soon as possible.,Software,HIGH
+Email attachment problem,My mailbox is full and I cannot receive new messages. This is affecting my work.,Email,HIGH
+Application permission required,I cannot open an important file because of permission restrictions. Please investigate this problem.,Access,HIGH
+Application keeps crashing,The application displays an error whenever I perform an operation. The issue started recently.,Software,MEDIUM
+Account recovery request,I need assistance resetting my account password.,Account,LOW
+Permission request,I need access to the team's shared drive. Please investigate this problem.,Access,LOW
+Unable to authenticate,I am having an issue with my username. Please investigate this problem.,Account,MEDIUM
+Internet connection unavailable,The network connection keeps dropping frequently. The issue started recently.,Network,MEDIUM
+Access denied error,I need access to the team's shared drive. The issue started recently.,Access,MEDIUM
+Server access denied,I need permission to use the required company application. Please help me resolve this issue.,Access,HIGH
+Login credentials not working,I need help recovering my company account. This is affecting my work.,Account,HIGH
+Unauthorized access,I think I may have received a phishing message. The issue started recently.,Security,CRITICAL
+Laptop overheating,My laptop does not turn on when I press the power button.,Hardware,MEDIUM
+Cannot access database,The application says that I do not have permission to access it. This is affecting my work.,Access,LOW
+New equipment request,I need some information regarding an IT service. This is affecting my work.,Other,MEDIUM
+Email synchronization issue,I am not receiving notifications for new emails. The issue started recently.,Email,HIGH
+Email synchronization issue,My emails are not synchronizing correctly. Please help me resolve this issue.,Email,HIGH
+Internet connection unavailable,I cannot connect to the company VPN from home. I need assistance as soon as possible.,Network,HIGH
+Access denied error,The application says that I do not have permission to access it.,Access,LOW
+Mailbox full,My mailbox is full and I cannot receive new messages. Please help me resolve this issue.,Email,MEDIUM
+Keyboard not working,My laptop battery is draining very quickly. The issue started recently.,Hardware,MEDIUM
+Outlook not opening,Outlook does not open when I click on it. This is affecting my work.,Email,MEDIUM
+Unauthorized access,I received a suspicious email that appears to be a phishing attempt. Please investigate this problem.,Security,CRITICAL
+Application showing error,My web browser is not working correctly. I need assistance as soon as possible.,Software,LOW
+Forgot password,I need help recovering my company account. I need assistance as soon as possible.,Account,LOW
+Email synchronization issue,My emails are not synchronizing correctly. I need assistance as soon as possible.,Email,MEDIUM
+Miscellaneous IT issue,I need help with a technical problem. This is affecting my work.,Other,HIGH
+IT assistance required,I need help with a technical problem.,Other,MEDIUM
+Unable to access application,I cannot access the shared folder used by my team. Please investigate this problem.,Access,LOW
+Possible phishing attack,I would like to report a potential security incident. This is affecting my work.,Security,HIGH
+Cannot access mailbox,My mailbox is full and I cannot receive new messages.,Email,HIGH
+Cannot send email,New emails are not appearing in my inbox. Please investigate this problem.,Email,MEDIUM
+Equipment replacement request,I would like to request new computer equipment. I need assistance as soon as possible.,Other,MEDIUM
+Possible virus,I received an alert about an unknown login to my account. Please investigate this problem.,Security,HIGH
+Program will not open,The application crashes every time I try to open it. This is affecting my work.,Software,MEDIUM
+Email attachment problem,Outlook does not open when I click on it. Please help me resolve this issue.,Email,MEDIUM
+Hard drive issue,My headset is not detected by my computer.,Hardware,MEDIUM
+Keyboard not working,My laptop does not turn on when I press the power button.,Hardware,LOW
+Laptop battery problem,My mouse is connected but is not responding. Please investigate this problem.,Hardware,LOW
+Hard drive issue,The monitor is connected but nothing is displayed. The issue started recently.,Hardware,MEDIUM
+Wi-Fi keeps disconnecting,The network connection keeps dropping frequently. This is affecting my work.,Network,HIGH
+Shared folder access denied,I cannot access the shared folder used by my team. Please help me resolve this issue.,Access,HIGH
+Security incident,I received an email containing a suspicious link. I need assistance as soon as possible.,Security,CRITICAL
+Network timeout,My laptop is unable to connect to the office Wi-Fi. The issue started recently.,Network,HIGH
+Access denied error,I would like to request access to a company resource. Please investigate this problem.,Access,LOW
+Suspicious attachment,I received an alert about an unknown login to my account. The issue started recently.,Security,HIGH
+New employee IT setup,Please provide technical support for my workstation. The issue started recently.,Other,MEDIUM
+Keyboard not working,The monitor is connected but nothing is displayed. I need assistance as soon as possible.,Hardware,LOW
+Laptop not turning on,Several keys on my keyboard have stopped working. This is affecting my work.,Hardware,HIGH
+New employee IT setup,I need to request replacement IT equipment. Please investigate this problem.,Other,MEDIUM
+Cannot receive email,I am unable to send an email attachment. I need assistance as soon as possible.,Email,LOW
+Username issue,I forgot my company account password and need it reset. This is affecting my work.,Account,LOW
+Printer not working,My mouse is connected but is not responding. The issue started recently.,Hardware,MEDIUM
+Slow internet,My laptop is unable to connect to the office Wi-Fi. This is affecting my work.,Network,MEDIUM
+Slow internet,I do not have access to the internet.,Network,HIGH
+Application keeps crashing,I am unable to install the required software on my computer. Please help me resolve this issue.,Software,MEDIUM
+IT assistance required,I need help with a technical problem.,Other,MEDIUM
+IT assistance required,Please provide technical support for my workstation. Please investigate this problem.,Other,HIGH
+Access denied error,I would like to request access to a company resource.,Access,MEDIUM
+Keyboard not working,My computer has become extremely slow recently. This is affecting my work.,Hardware,MEDIUM
+Miscellaneous IT issue,I need to request replacement IT equipment. This is affecting my work.,Other,MEDIUM
+Program will not open,The latest software update failed to install. I need assistance as soon as possible.,Software,MEDIUM
+Printer not working,My laptop battery is draining very quickly. The issue started recently.,Hardware,MEDIUM
+General support request,I need some information regarding an IT service. I need assistance as soon as possible.,Other,HIGH
+Password expired,The system is unable to authenticate my account. I need assistance as soon as possible.,Account,HIGH
+Username issue,I forgot my company account password and need it reset. I need assistance as soon as possible.,Account,LOW
+Shared folder access denied,Access to the server is being denied. The issue started recently.,Access,LOW
+IT assistance required,I would like to request new computer equipment.,Other,MEDIUM
+Shared folder access denied,The application says that I do not have permission to access it. The issue started recently.,Access,MEDIUM
+Laptop overheating,I am having problems with the hard drive on my computer.,Hardware,HIGH
+Access denied error,I am unable to access the company database. Please help me resolve this issue.,Access,HIGH
+Need access to company system,I would like to request access to a company resource.,Access,MEDIUM
+Unable to access server,My laptop is unable to connect to the office Wi-Fi.,Network,LOW
+Possible phishing attack,There may have been unauthorized access to my account. The issue started recently.,Security,HIGH
+Suspicious attachment,My computer is showing a possible malware warning. This is affecting my work.,Security,HIGH
+Software installation failed,The application freezes whenever I try to use it. The issue started recently.,Software,MEDIUM
+Access to shared drive required,I need access to an internal company system. Please investigate this problem.,Access,LOW
+New employee IT setup,I have an IT issue that does not fit into another category. This is affecting my work.,Other,MEDIUM
+New employee IT setup,I have a general IT support request.,Other,MEDIUM
+Application permission required,I need permission to use the required company application.,Access,HIGH
+File permission issue,I cannot access the shared folder used by my team. This is affecting my work.,Access,MEDIUM
+Windows error,Excel stops responding when I open a large spreadsheet. Please investigate this problem.,Software,LOW
+Network connection dropping,I do not have access to the internet.,Network,LOW
+Slow internet,My computer cannot connect to the company network. I need assistance as soon as possible.,Network,MEDIUM
+Application permission required,I am unable to access the company database. I need assistance as soon as possible.,Access,HIGH
+Hard drive issue,My computer has become extremely slow recently.,Hardware,MEDIUM
+Mailbox full,My emails are being delivered very slowly. The issue started recently.,Email,MEDIUM
+New equipment request,I have an IT issue that does not fit into another category.,Other,HIGH
+Internet connection unavailable,Network requests are timing out repeatedly. This is affecting my work.,Network,LOW
+Employee account problem,I need assistance resetting my account password. I need assistance as soon as possible.,Account,LOW
+Username issue,My password has expired and I cannot access my account. This is affecting my work.,Account,MEDIUM
+File permission issue,Access to the server is being denied. Please investigate this problem.,Access,HIGH
+Browser not working,My web browser is not working correctly. This is affecting my work.,Software,HIGH
+Access to shared drive required,I need permission to use the required company application.,Access,HIGH
+Security incident,I received a security alert that I do not recognize. The issue started recently.,Security,HIGH
+Software update failed,The latest software update failed to install. Please help me resolve this issue.,Software,LOW
+Computer setup request,I have a general IT support request. This is affecting my work.,Other,HIGH
+Miscellaneous IT issue,I need help with a technical problem. Please investigate this problem.,Other,HIGH
+Cannot receive email,Outlook crashes whenever I try to launch it.,Email,HIGH
+Outlook not opening,My mailbox is full and I cannot receive new messages. This is affecting my work.,Email,LOW
+Permission request,I would like to request access to a company resource. The issue started recently.,Access,LOW
+Possible phishing attack,I think I may have received a phishing message. The issue started recently.,Security,CRITICAL
+Unauthorized access,There may have been unauthorized access to my account. Please help me resolve this issue.,Security,HIGH
+Cannot access mailbox,My mailbox is full and I cannot receive new messages. The issue started recently.,Email,HIGH
+Miscellaneous IT issue,A new employee needs their computer and IT services configured. Please investigate this problem.,Other,LOW
+Suspicious email received,My computer is showing a possible malware warning. The issue started recently.,Security,MEDIUM
+General support request,I need general assistance with an IT-related issue. Please help me resolve this issue.,Other,MEDIUM
+Program will not open,Windows is showing an unexpected error message. Please help me resolve this issue.,Software,HIGH
+Unknown login detected,There may have been unauthorized access to my account. Please investigate this problem.,Security,MEDIUM
+Printer not working,I am having problems with the hard drive on my computer. I need assistance as soon as possible.,Hardware,MEDIUM
+Username issue,I need help recovering my company account. Please investigate this problem.,Account,LOW
+Unable to access application,The application says that I do not have permission to access it. I need assistance as soon as possible.,Access,HIGH
+Computer running slowly,My headset is not detected by my computer. Please investigate this problem.,Hardware,HIGH
+General IT request,A new employee needs their computer and IT services configured. I need assistance as soon as possible.,Other,MEDIUM
+Forgot password,My password has expired and I cannot access my account. Please help me resolve this issue.,Account,MEDIUM
+Laptop overheating,My mouse is connected but is not responding. Please investigate this problem.,Hardware,LOW
+Wi-Fi not working,I cannot connect to the company VPN from home. Please investigate this problem.,Network,HIGH
+Security alert,I think my computer may have a virus. Please help me resolve this issue.,Security,MEDIUM
+Employee account problem,I am having an issue with my username. Please investigate this problem.,Account,MEDIUM
+Printer not working,The monitor is connected but nothing is displayed. Please investigate this problem.,Hardware,LOW
+Network timeout,I cannot connect to the company server. Please investigate this problem.,Network,MEDIUM
+Laptop not turning on,My headset is not detected by my computer. Please investigate this problem.,Hardware,MEDIUM
+VPN connection failed,I am having a DNS resolution problem. This is affecting my work.,Network,LOW
+Hard drive issue,My laptop battery is draining very quickly. This is affecting my work.,Hardware,MEDIUM
+Password reset required,The system is unable to authenticate my account. Please investigate this problem.,Account,MEDIUM
+IT assistance required,I need to request replacement IT equipment. Please investigate this problem.,Other,MEDIUM
+Browser not working,Excel stops responding when I open a large spreadsheet. The issue started recently.,Software,MEDIUM
+Possible virus,I think I may have received a phishing message. Please investigate this problem.,Security,MEDIUM
+Account locked,I need help recovering my company account.,Account,MEDIUM
+Network connection dropping,The internet connection is extremely slow. The issue started recently.,Network,HIGH
+VPN connection failed,I do not have access to the internet. Please investigate this problem.,Network,LOW
+Computer setup request,I need to request replacement IT equipment. Please investigate this problem.,Other,HIGH
+Unknown login detected,I would like to report a potential security incident. This is affecting my work.,Security,CRITICAL
+Email attachment problem,My emails are not synchronizing correctly. I need assistance as soon as possible.,Email,MEDIUM
+Laptop overheating,My computer has become extremely slow recently.,Hardware,MEDIUM
+Mailbox full,Outlook does not open when I click on it. The issue started recently.,Email,LOW
+Shared folder access denied,I cannot access the shared folder used by my team. Please investigate this problem.,Access,HIGH
+Unable to authenticate,My password has expired and I cannot access my account. Please help me resolve this issue.,Account,LOW
+Server access denied,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,MEDIUM
+Access to shared drive required,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,LOW
+VPN connection failed,Network requests are timing out repeatedly. Please help me resolve this issue.,Network,MEDIUM
+Unable to access server,The network connection keeps dropping frequently. This is affecting my work.,Network,HIGH
+Program will not open,The software does not appear to be compatible with my system. I need assistance as soon as possible.,Software,MEDIUM
+Cannot connect to office network,The Wi-Fi disconnects every few minutes. The issue started recently.,Network,HIGH
+Emails delayed,I cannot access my company mailbox. This is affecting my work.,Email,HIGH
+Cannot send email,I cannot send emails from my company account. The issue started recently.,Email,LOW
+Application showing error,The application crashes every time I try to open it. Please help me resolve this issue.,Software,MEDIUM
+Email attachment problem,Outlook crashes whenever I try to launch it. Please investigate this problem.,Email,HIGH
+Cannot receive email,I cannot send emails from my company account. I need assistance as soon as possible.,Email,MEDIUM
+Security alert,My computer is showing a possible malware warning.,Security,CRITICAL
+Browser not working,The application freezes whenever I try to use it. This is affecting my work.,Software,MEDIUM
+Login credentials not working,There appears to be a problem with my employee account. This is affecting my work.,Account,HIGH
+Username issue,The system is unable to authenticate my account.,Account,MEDIUM
+Computer setup request,I have an IT issue that does not fit into another category. Please investigate this problem.,Other,HIGH
+Windows error,The application displays an error whenever I perform an operation. Please investigate this problem.,Software,MEDIUM
+Security alert,I think my computer may have a virus. Please investigate this problem.,Security,MEDIUM
+Laptop battery problem,My headset is not detected by my computer. Please investigate this problem.,Hardware,LOW
+Possible phishing attack,There may have been unauthorized access to my account. This is affecting my work.,Security,HIGH
+Email attachment problem,Outlook does not open when I click on it. The issue started recently.,Email,HIGH
+Technical help needed,Please provide technical support for my workstation. Please investigate this problem.,Other,MEDIUM
+Employee account problem,I need help recovering my company account. Please investigate this problem.,Account,MEDIUM
+Excel not responding,My web browser is not working correctly. This is affecting my work.,Software,MEDIUM
+Email notifications not working,My emails are being delivered very slowly. Please investigate this problem.,Email,HIGH
+Software compatibility issue,The application freezes whenever I try to use it. Please investigate this problem.,Software,HIGH
+Outlook not opening,My emails are not synchronizing correctly. This is affecting my work.,Email,HIGH
+Wi-Fi not working,I am having a DNS resolution problem. The issue started recently.,Network,LOW
+Unauthorized access,My computer is showing a possible malware warning. Please help me resolve this issue.,Security,HIGH
+Laptop not turning on,Several keys on my keyboard have stopped working. Please help me resolve this issue.,Hardware,MEDIUM
+Computer running slowly,My mouse is connected but is not responding. I need assistance as soon as possible.,Hardware,MEDIUM
+Browser not working,The application freezes whenever I try to use it. Please help me resolve this issue.,Software,MEDIUM
+Need access to company system,I cannot access the shared folder used by my team. Please help me resolve this issue.,Access,LOW
+Forgot password,I need help recovering my company account.,Account,MEDIUM
+Network connection dropping,The Wi-Fi disconnects every few minutes. The issue started recently.,Network,HIGH
+Security alert,I received a security alert that I do not recognize. Please investigate this problem.,Security,MEDIUM
+Account locked,My password has expired and I cannot access my account. The issue started recently.,Account,MEDIUM
+Windows error,The latest software update failed to install. The issue started recently.,Software,HIGH
+Unable to authenticate,The system is unable to authenticate my account. Please investigate this problem.,Account,HIGH
+Server access denied,I need permission to use the required company application. I need assistance as soon as possible.,Access,HIGH
+Emails delayed,I am unable to send an email attachment.,Email,MEDIUM
+Cannot send email,Outlook does not open when I click on it. I need assistance as soon as possible.,Email,MEDIUM
+Application permission required,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,HIGH
+Possible phishing attack,I received a security alert that I do not recognize. The issue started recently.,Security,CRITICAL
+Cannot connect to office network,The network connection keeps dropping frequently. Please investigate this problem.,Network,HIGH
+Password reset required,My account has been locked after several unsuccessful login attempts.,Account,HIGH
+Unable to access server,I am having a DNS resolution problem. I need assistance as soon as possible.,Network,HIGH
+Wi-Fi keeps disconnecting,I am having a DNS resolution problem. Please investigate this problem.,Network,HIGH
+Account locked,There appears to be a problem with my employee account.,Account,HIGH
+General IT request,A new employee needs their computer and IT services configured. Please help me resolve this issue.,Other,MEDIUM
+IT assistance required,I need some information regarding an IT service. I need assistance as soon as possible.,Other,MEDIUM
+Email synchronization issue,I am not receiving notifications for new emails. I need assistance as soon as possible.,Email,MEDIUM
+Account recovery request,I need assistance resetting my account password.,Account,HIGH
+Employee account problem,I cannot log into my company account.,Account,HIGH
+Slow internet,I cannot connect to the company server. I need assistance as soon as possible.,Network,MEDIUM
+Unauthorized access,My computer is showing a possible malware warning. The issue started recently.,Security,CRITICAL
+Miscellaneous IT issue,I have an IT issue that does not fit into another category. This is affecting my work.,Other,HIGH
+Unknown login detected,I received an alert about an unknown login to my account. This is affecting my work.,Security,HIGH
+Unable to access application,The application says that I do not have permission to access it. The issue started recently.,Access,LOW
+Email notifications not working,New emails are not appearing in my inbox.,Email,LOW
+Network timeout,The internet connection is extremely slow. Please investigate this problem.,Network,LOW
+Email attachment problem,I cannot send emails from my company account. The issue started recently.,Email,HIGH
+Computer setup request,Please provide technical support for my workstation. The issue started recently.,Other,LOW
+Emails delayed,I am not receiving notifications for new emails. This is affecting my work.,Email,HIGH
+Equipment replacement request,I have a general IT support request. I need assistance as soon as possible.,Other,MEDIUM
+Login credentials not working,I need assistance resetting my account password.,Account,HIGH
+New employee IT setup,I need help with a technical problem. This is affecting my work.,Other,HIGH
+Wi-Fi not working,The Wi-Fi disconnects every few minutes. This is affecting my work.,Network,LOW
+Login credentials not working,My password has expired and I cannot access my account. The issue started recently.,Account,LOW
+Possible virus,I received a suspicious email that appears to be a phishing attempt. Please investigate this problem.,Security,MEDIUM
+Technical help needed,I need some information regarding an IT service. The issue started recently.,Other,MEDIUM
+Password expired,The system is unable to authenticate my account. I need assistance as soon as possible.,Account,LOW
+Wi-Fi not working,Network requests are timing out repeatedly. This is affecting my work.,Network,MEDIUM
+Possible phishing attack,An unknown sender sent me a suspicious attachment. Please help me resolve this issue.,Security,HIGH
+Printer not working,My laptop battery is draining very quickly. Please investigate this problem.,Hardware,MEDIUM
+Program will not open,My web browser is not working correctly. The issue started recently.,Software,MEDIUM
+Application keeps crashing,The application freezes whenever I try to use it. This is affecting my work.,Software,HIGH
+New equipment request,I need some information regarding an IT service. The issue started recently.,Other,MEDIUM
+Login credentials not working,The system is unable to authenticate my account. This is affecting my work.,Account,HIGH
+Malware warning,There may have been unauthorized access to my account. This is affecting my work.,Security,HIGH
+General support request,I would like to request new computer equipment. This is affecting my work.,Other,MEDIUM
+Cannot access mailbox,My emails are not synchronizing correctly. The issue started recently.,Email,HIGH
+Email attachment problem,My emails are not synchronizing correctly. This is affecting my work.,Email,MEDIUM
+Laptop battery problem,The monitor is connected but nothing is displayed. I need assistance as soon as possible.,Hardware,MEDIUM
+Laptop battery problem,Several keys on my keyboard have stopped working.,Hardware,HIGH
+Shared folder access denied,Access to the server is being denied. I need assistance as soon as possible.,Access,HIGH
+Network timeout,Network requests are timing out repeatedly. Please help me resolve this issue.,Network,MEDIUM
+Mailbox full,My emails are being delivered very slowly. Please help me resolve this issue.,Email,HIGH
+Computer setup request,A new employee needs their computer and IT services configured.,Other,HIGH
+Internet connection unavailable,Network requests are timing out repeatedly. The issue started recently.,Network,HIGH
+Miscellaneous IT issue,Please provide technical support for my workstation. This is affecting my work.,Other,MEDIUM
+General support request,A new employee needs their computer and IT services configured. This is affecting my work.,Other,MEDIUM
+Email synchronization issue,My mailbox is full and I cannot receive new messages.,Email,LOW
+General support request,I need assistance setting up a new computer. I need assistance as soon as possible.,Other,HIGH
+Email synchronization issue,My mailbox is full and I cannot receive new messages. I need assistance as soon as possible.,Email,LOW
+Password expired,I forgot my company account password and need it reset.,Account,MEDIUM
+Shared folder access denied,Access to the server is being denied.,Access,HIGH
+Unknown login detected,I received an email containing a suspicious link.,Security,MEDIUM
+Outlook keeps crashing,Outlook crashes whenever I try to launch it. This is affecting my work.,Email,HIGH
+Laptop overheating,Several keys on my keyboard have stopped working. I need assistance as soon as possible.,Hardware,LOW
+Wi-Fi not working,Network requests are timing out repeatedly. The issue started recently.,Network,HIGH
+Mouse not responding,My computer has become extremely slow recently. I need assistance as soon as possible.,Hardware,LOW
+Outlook keeps crashing,I am not receiving notifications for new emails. This is affecting my work.,Email,HIGH
+Network connection dropping,The Wi-Fi disconnects every few minutes. Please help me resolve this issue.,Network,HIGH
+File permission issue,I receive an access denied error when opening the resource.,Access,MEDIUM
+Login credentials not working,I cannot log into my company account. Please investigate this problem.,Account,MEDIUM
+Mouse not responding,My computer has become extremely slow recently. I need assistance as soon as possible.,Hardware,LOW
+Application keeps crashing,The application freezes whenever I try to use it. Please help me resolve this issue.,Software,MEDIUM
+Slow internet,The internet connection is extremely slow. The issue started recently.,Network,MEDIUM
+Program will not open,Excel stops responding when I open a large spreadsheet. Please help me resolve this issue.,Software,HIGH
+New employee IT setup,I need some information regarding an IT service. This is affecting my work.,Other,LOW
+Software update failed,Excel stops responding when I open a large spreadsheet. I need assistance as soon as possible.,Software,MEDIUM
+DNS problem,The Wi-Fi disconnects every few minutes. Please help me resolve this issue.,Network,HIGH
+Outlook keeps crashing,My emails are being delivered very slowly. Please investigate this problem.,Email,MEDIUM
+Emails delayed,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,MEDIUM
+Forgot password,My account has been locked after several unsuccessful login attempts. I need assistance as soon as possible.,Account,MEDIUM
+Emails delayed,My emails are being delivered very slowly. Please help me resolve this issue.,Email,MEDIUM
+Application keeps crashing,The latest software update failed to install. The issue started recently.,Software,HIGH
+Hard drive issue,My laptop battery is draining very quickly. I need assistance as soon as possible.,Hardware,LOW
+Computer setup request,I would like to request new computer equipment. This is affecting my work.,Other,HIGH
+Server access denied,I need access to the team's shared drive.,Access,HIGH
+Excel not responding,Excel stops responding when I open a large spreadsheet. Please investigate this problem.,Software,MEDIUM
+Application keeps crashing,The application displays an error whenever I perform an operation.,Software,MEDIUM
+Account locked,The system is unable to authenticate my account. This is affecting my work.,Account,MEDIUM
+Computer running slowly,I am having problems with the hard drive on my computer. The issue started recently.,Hardware,LOW
+Possible virus,I received a security alert that I do not recognize.,Security,HIGH
+Program will not open,The program refuses to open on my laptop. Please investigate this problem.,Software,MEDIUM
+Security alert,I received a suspicious email that appears to be a phishing attempt.,Security,CRITICAL
+Application permission required,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,LOW
+Cannot connect to office network,Network requests are timing out repeatedly. I need assistance as soon as possible.,Network,LOW
+Monitor not displaying,My laptop battery is draining very quickly. Please help me resolve this issue.,Hardware,HIGH
+Slow internet,My laptop is unable to connect to the office Wi-Fi. The issue started recently.,Network,HIGH
+Security incident,An unknown sender sent me a suspicious attachment. The issue started recently.,Security,HIGH
+Application permission required,I receive an access denied error when opening the resource.,Access,LOW
+Laptop battery problem,I am having problems with the hard drive on my computer. Please help me resolve this issue.,Hardware,MEDIUM
+Server access denied,Access to the server is being denied. Please investigate this problem.,Access,HIGH
+Phishing link received,I received a suspicious email that appears to be a phishing attempt.,Security,CRITICAL
+Account locked,My password has expired and I cannot access my account. The issue started recently.,Account,LOW
+Access denied error,I am unable to access the company database. This is affecting my work.,Access,HIGH
+Browser not working,The application crashes every time I try to open it. Please help me resolve this issue.,Software,MEDIUM
+Network connection dropping,I cannot connect to the company VPN from home. Please help me resolve this issue.,Network,MEDIUM
+Emails delayed,Outlook crashes whenever I try to launch it.,Email,MEDIUM
+Laptop battery problem,The monitor is connected but nothing is displayed. Please help me resolve this issue.,Hardware,MEDIUM
+Employee account problem,My login credentials are not being accepted. I need assistance as soon as possible.,Account,LOW
+Printer not working,Several keys on my keyboard have stopped working. The issue started recently.,Hardware,LOW
+Unable to access server,My computer cannot connect to the company network. Please help me resolve this issue.,Network,HIGH
+Software installation failed,Excel stops responding when I open a large spreadsheet. The issue started recently.,Software,LOW
+Cannot access mailbox,I am unable to send an email attachment. This is affecting my work.,Email,HIGH
+Email synchronization issue,I cannot send emails from my company account. Please help me resolve this issue.,Email,HIGH
+General IT request,Please provide technical support for my workstation. This is affecting my work.,Other,LOW
+Possible phishing attack,I would like to report a potential security incident. The issue started recently.,Security,HIGH
+Malware warning,I received an alert about an unknown login to my account.,Security,MEDIUM
+Malware warning,There may have been unauthorized access to my account.,Security,CRITICAL
+Email notifications not working,Outlook crashes whenever I try to launch it. Please help me resolve this issue.,Email,LOW
+Network connection dropping,I do not have access to the internet. The issue started recently.,Network,LOW
+Email synchronization issue,I am unable to send an email attachment. Please investigate this problem.,Email,LOW
+General support request,I have an IT issue that does not fit into another category. This is affecting my work.,Other,MEDIUM
+Monitor not displaying,Several keys on my keyboard have stopped working. Please investigate this problem.,Hardware,HIGH
+Laptop overheating,The office printer is not printing my documents.,Hardware,MEDIUM
+Cannot connect to office network,The Wi-Fi disconnects every few minutes.,Network,HIGH
+Network timeout,The internet connection is extremely slow. This is affecting my work.,Network,LOW
+Keyboard not working,My laptop does not turn on when I press the power button. This is affecting my work.,Hardware,MEDIUM
+Laptop battery problem,My laptop does not turn on when I press the power button.,Hardware,MEDIUM
+Application permission required,I receive an access denied error when opening the resource. Please investigate this problem.,Access,MEDIUM
+Laptop overheating,My laptop is getting very hot during normal usage. The issue started recently.,Hardware,MEDIUM
+Headset not working,The monitor is connected but nothing is displayed. Please investigate this problem.,Hardware,LOW
+Malware warning,I think I may have received a phishing message. Please help me resolve this issue.,Security,HIGH
+Application keeps crashing,Excel stops responding when I open a large spreadsheet. Please help me resolve this issue.,Software,MEDIUM
+Mailbox full,New emails are not appearing in my inbox. The issue started recently.,Email,HIGH
+Password expired,My login credentials are not being accepted. Please investigate this problem.,Account,MEDIUM
+Suspicious email received,I received a security alert that I do not recognize. The issue started recently.,Security,MEDIUM
+Emails delayed,Outlook does not open when I click on it. I need assistance as soon as possible.,Email,HIGH
+Employee account problem,I need assistance resetting my account password. Please help me resolve this issue.,Account,LOW
+New employee IT setup,I would like to request new computer equipment. Please help me resolve this issue.,Other,LOW
+Username issue,My login credentials are not being accepted. Please investigate this problem.,Account,HIGH
+New equipment request,I need to request replacement IT equipment. This is affecting my work.,Other,MEDIUM
+Keyboard not working,My laptop battery is draining very quickly. The issue started recently.,Hardware,MEDIUM
+Emails delayed,New emails are not appearing in my inbox. Please investigate this problem.,Email,MEDIUM
+General support request,I need help with a technical problem. I need assistance as soon as possible.,Other,MEDIUM
+Cannot access database,I receive an access denied error when opening the resource. I need assistance as soon as possible.,Access,MEDIUM
+Mailbox full,My emails are not synchronizing correctly. Please help me resolve this issue.,Email,LOW
+Network timeout,I cannot connect to the company server. This is affecting my work.,Network,LOW
+Software update failed,I am unable to install the required software on my computer. Please investigate this problem.,Software,MEDIUM
+Account locked,I need help recovering my company account.,Account,HIGH
+New employee IT setup,Please provide technical support for my workstation. Please help me resolve this issue.,Other,MEDIUM
+Slow internet,The Wi-Fi disconnects every few minutes. Please help me resolve this issue.,Network,LOW
+Keyboard not working,My computer has become extremely slow recently. I need assistance as soon as possible.,Hardware,MEDIUM
+Account recovery request,There appears to be a problem with my employee account. This is affecting my work.,Account,HIGH
+Suspicious attachment,I think I may have received a phishing message. This is affecting my work.,Security,MEDIUM
+Windows error,The application freezes whenever I try to use it. The issue started recently.,Software,LOW
+Email synchronization issue,My mailbox is full and I cannot receive new messages.,Email,HIGH
+Shared folder access denied,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,MEDIUM
+Emails delayed,Outlook does not open when I click on it. Please investigate this problem.,Email,LOW
+Wi-Fi keeps disconnecting,Network requests are timing out repeatedly.,Network,HIGH
+Login credentials not working,I cannot log into my company account. This is affecting my work.,Account,LOW
+Headset not working,My computer has become extremely slow recently. This is affecting my work.,Hardware,HIGH
+Cannot connect to office network,I do not have access to the internet. I need assistance as soon as possible.,Network,HIGH
+Access denied error,The application says that I do not have permission to access it. I need assistance as soon as possible.,Access,HIGH
+Permission request,I cannot access the shared folder used by my team. I need assistance as soon as possible.,Access,MEDIUM
+Cannot access database,I am unable to access the company database. The issue started recently.,Access,HIGH
+Email notifications not working,I am unable to send an email attachment.,Email,LOW
+VPN connection failed,I am having a DNS resolution problem.,Network,HIGH
+Laptop battery problem,My mouse is connected but is not responding. This is affecting my work.,Hardware,MEDIUM
+Access to shared drive required,The application says that I do not have permission to access it. Please investigate this problem.,Access,LOW
+DNS problem,I cannot connect to the company VPN from home. Please help me resolve this issue.,Network,HIGH
+Network timeout,I do not have access to the internet.,Network,LOW
+Access to shared drive required,The application says that I do not have permission to access it. Please investigate this problem.,Access,MEDIUM
+Unable to authenticate,My account has been locked after several unsuccessful login attempts. This is affecting my work.,Account,LOW
+Miscellaneous IT issue,I need general assistance with an IT-related issue. This is affecting my work.,Other,HIGH
+Technical help needed,I need some information regarding an IT service. I need assistance as soon as possible.,Other,HIGH
+Cannot login,I need help recovering my company account. I need assistance as soon as possible.,Account,HIGH
+Shared folder access denied,I receive an access denied error when opening the resource. Please help me resolve this issue.,Access,HIGH
+Windows error,The application crashes every time I try to open it. Please help me resolve this issue.,Software,LOW
+Application keeps crashing,My web browser is not working correctly. I need assistance as soon as possible.,Software,HIGH
+Software installation failed,The program refuses to open on my laptop. I need assistance as soon as possible.,Software,LOW
+Printer not working,My laptop battery is draining very quickly. This is affecting my work.,Hardware,HIGH
+Slow internet,The Wi-Fi disconnects every few minutes. Please help me resolve this issue.,Network,MEDIUM
+Malware warning,I received a security alert that I do not recognize.,Security,CRITICAL
+Unable to access application,I would like to request access to a company resource. Please investigate this problem.,Access,LOW
+Suspicious email received,There may have been unauthorized access to my account. Please investigate this problem.,Security,CRITICAL
+Program will not open,The application freezes whenever I try to use it. This is affecting my work.,Software,HIGH
+Cannot access database,I would like to request access to a company resource. Please investigate this problem.,Access,LOW
+General support request,I need help with a technical problem. The issue started recently.,Other,MEDIUM
+Username issue,My login credentials are not being accepted. Please investigate this problem.,Account,MEDIUM
+Malware warning,I received a suspicious email that appears to be a phishing attempt.,Security,HIGH
+Software update failed,I am unable to install the required software on my computer.,Software,MEDIUM
+Technical help needed,I need help with a technical problem. The issue started recently.,Other,MEDIUM
+Cannot access database,I cannot open an important file because of permission restrictions. The issue started recently.,Access,LOW
+New employee IT setup,I need some information regarding an IT service. The issue started recently.,Other,HIGH
+Cannot send email,Outlook crashes whenever I try to launch it. Please help me resolve this issue.,Email,MEDIUM
+Cannot send email,I am not receiving notifications for new emails. Please help me resolve this issue.,Email,MEDIUM
+Laptop not turning on,My headset is not detected by my computer. Please investigate this problem.,Hardware,HIGH
+Program will not open,The application displays an error whenever I perform an operation. I need assistance as soon as possible.,Software,MEDIUM
+Shared folder access denied,I am unable to access the company database.,Access,MEDIUM
+File permission issue,The application says that I do not have permission to access it. Please investigate this problem.,Access,MEDIUM
+Application freezing,My web browser is not working correctly. Please investigate this problem.,Software,MEDIUM
+Password expired,The system is unable to authenticate my account. Please investigate this problem.,Account,HIGH
+Windows error,My web browser is not working correctly. The issue started recently.,Software,HIGH
+Account recovery request,I cannot log into my company account. Please investigate this problem.,Account,LOW
+Account recovery request,I cannot log into my company account. Please help me resolve this issue.,Account,MEDIUM
+Forgot password,I forgot my company account password and need it reset. I need assistance as soon as possible.,Account,MEDIUM
+Browser not working,The program refuses to open on my laptop. This is affecting my work.,Software,MEDIUM
+Application freezing,My web browser is not working correctly.,Software,MEDIUM
+Printer not working,My mouse is connected but is not responding. Please investigate this problem.,Hardware,HIGH
+Forgot password,The system is unable to authenticate my account. The issue started recently.,Account,HIGH
+Slow internet,I cannot connect to the company server. This is affecting my work.,Network,HIGH
+Keyboard not working,My mouse is connected but is not responding. Please investigate this problem.,Hardware,LOW
+Security incident,An unknown sender sent me a suspicious attachment. Please investigate this problem.,Security,HIGH
+Equipment replacement request,I would like to request new computer equipment. The issue started recently.,Other,LOW
+IT assistance required,I would like to request new computer equipment. Please help me resolve this issue.,Other,LOW
+Suspicious email received,I think I may have received a phishing message. This is affecting my work.,Security,HIGH
+Excel not responding,Windows is showing an unexpected error message. This is affecting my work.,Software,LOW
+Computer setup request,I need to request replacement IT equipment. I need assistance as soon as possible.,Other,HIGH
+General IT request,Please provide technical support for my workstation. Please investigate this problem.,Other,MEDIUM
+Mouse not responding,The monitor is connected but nothing is displayed.,Hardware,MEDIUM
+Keyboard not working,My computer has become extremely slow recently. This is affecting my work.,Hardware,LOW
+Possible virus,I think my computer may have a virus. I need assistance as soon as possible.,Security,MEDIUM
+Need access to company system,Access to the server is being denied. I need assistance as soon as possible.,Access,HIGH
+Cannot access mailbox,Outlook crashes whenever I try to launch it.,Email,HIGH
+Unable to access server,My laptop is unable to connect to the office Wi-Fi. I need assistance as soon as possible.,Network,LOW
+Access denied error,I would like to request access to a company resource. I need assistance as soon as possible.,Access,LOW
+IT assistance required,I have an IT issue that does not fit into another category. Please investigate this problem.,Other,LOW
+Headset not working,My headset is not detected by my computer.,Hardware,LOW
+Suspicious attachment,I think I may have received a phishing message. I need assistance as soon as possible.,Security,MEDIUM
+DNS problem,The internet connection is extremely slow. I need assistance as soon as possible.,Network,LOW
+Monitor not displaying,My mouse is connected but is not responding. The issue started recently.,Hardware,LOW
+Monitor not displaying,Several keys on my keyboard have stopped working. Please investigate this problem.,Hardware,MEDIUM
+New employee IT setup,Please provide technical support for my workstation. This is affecting my work.,Other,MEDIUM
+Keyboard not working,My mouse is connected but is not responding. This is affecting my work.,Hardware,LOW
+Shared folder access denied,I cannot access the shared folder used by my team. Please help me resolve this issue.,Access,MEDIUM
+Miscellaneous IT issue,I would like to request new computer equipment. Please help me resolve this issue.,Other,MEDIUM
+VPN connection failed,Network requests are timing out repeatedly. Please investigate this problem.,Network,HIGH
+Equipment replacement request,I would like to request new computer equipment. Please help me resolve this issue.,Other,HIGH
+Password reset required,I forgot my company account password and need it reset. Please help me resolve this issue.,Account,MEDIUM
+Unable to access application,The application says that I do not have permission to access it. This is affecting my work.,Access,LOW
+Possible phishing attack,I received a security alert that I do not recognize. The issue started recently.,Security,MEDIUM
+Headset not working,My headset is not detected by my computer. Please help me resolve this issue.,Hardware,HIGH
+Program will not open,Excel stops responding when I open a large spreadsheet. I need assistance as soon as possible.,Software,LOW
+Access to shared drive required,Access to the server is being denied. Please investigate this problem.,Access,MEDIUM
+Computer setup request,A new employee needs their computer and IT services configured. Please investigate this problem.,Other,MEDIUM
+Password reset required,I am having an issue with my username. Please help me resolve this issue.,Account,LOW
+Laptop battery problem,The office printer is not printing my documents. Please help me resolve this issue.,Hardware,LOW
+DNS problem,I do not have access to the internet. The issue started recently.,Network,HIGH
+Account recovery request,My login credentials are not being accepted. Please investigate this problem.,Account,MEDIUM
+Shared folder access denied,I receive an access denied error when opening the resource.,Access,LOW
+IT information request,I have an IT issue that does not fit into another category. The issue started recently.,Other,LOW
+VPN connection failed,I do not have access to the internet. This is affecting my work.,Network,MEDIUM
+Windows error,The software does not appear to be compatible with my system. Please help me resolve this issue.,Software,LOW
+Password reset required,My login credentials are not being accepted. This is affecting my work.,Account,LOW
+Server access denied,I would like to request access to a company resource. The issue started recently.,Access,HIGH
+Excel not responding,Windows is showing an unexpected error message. I need assistance as soon as possible.,Software,HIGH
+Miscellaneous IT issue,I have a general IT support request. The issue started recently.,Other,MEDIUM
+Network connection dropping,The internet connection is extremely slow. Please help me resolve this issue.,Network,MEDIUM
+Security incident,I received an email containing a suspicious link. The issue started recently.,Security,HIGH
+Keyboard not working,My laptop does not turn on when I press the power button. Please help me resolve this issue.,Hardware,MEDIUM
+Unknown login detected,I think I may have received a phishing message. The issue started recently.,Security,HIGH
+Suspicious attachment,I received a security alert that I do not recognize. Please investigate this problem.,Security,MEDIUM
+Browser not working,Excel stops responding when I open a large spreadsheet. This is affecting my work.,Software,MEDIUM
+Excel not responding,The software does not appear to be compatible with my system. I need assistance as soon as possible.,Software,LOW
+Printer not working,I am having problems with the hard drive on my computer. Please help me resolve this issue.,Hardware,MEDIUM
+Unauthorized access,An unknown sender sent me a suspicious attachment. I need assistance as soon as possible.,Security,CRITICAL
+Unable to access application,I am unable to access the company database. I need assistance as soon as possible.,Access,HIGH
+Browser not working,The application freezes whenever I try to use it. The issue started recently.,Software,MEDIUM
+Monitor not displaying,The monitor is connected but nothing is displayed. This is affecting my work.,Hardware,LOW
+Monitor not displaying,My laptop does not turn on when I press the power button. The issue started recently.,Hardware,LOW
+Cannot access database,I need permission to use the required company application. The issue started recently.,Access,HIGH
+Cannot login,My password has expired and I cannot access my account. I need assistance as soon as possible.,Account,MEDIUM
+Security alert,I received an email containing a suspicious link. Please investigate this problem.,Security,HIGH
+Mailbox full,My emails are not synchronizing correctly. Please investigate this problem.,Email,HIGH
+Windows error,Excel stops responding when I open a large spreadsheet. I need assistance as soon as possible.,Software,MEDIUM
+Mailbox full,I am not receiving notifications for new emails. Please investigate this problem.,Email,HIGH
+Cannot access mailbox,Outlook crashes whenever I try to launch it. This is affecting my work.,Email,MEDIUM
+Employee account problem,I forgot my company account password and need it reset. The issue started recently.,Account,HIGH
+Cannot connect to office network,The internet connection is extremely slow. The issue started recently.,Network,LOW
+Account recovery request,The system is unable to authenticate my account. I need assistance as soon as possible.,Account,MEDIUM
+Network connection dropping,I am having a DNS resolution problem. Please investigate this problem.,Network,HIGH
+Email synchronization issue,My emails are not synchronizing correctly. This is affecting my work.,Email,LOW
+Slow internet,The Wi-Fi disconnects every few minutes. I need assistance as soon as possible.,Network,HIGH
+Unknown login detected,I received a security alert that I do not recognize.,Security,MEDIUM
+Network timeout,I cannot connect to the company server. This is affecting my work.,Network,LOW
+Possible virus,I would like to report a potential security incident.,Security,CRITICAL
+Emails delayed,Outlook crashes whenever I try to launch it. I need assistance as soon as possible.,Email,LOW
+Hard drive issue,The monitor is connected but nothing is displayed.,Hardware,HIGH
+Employee account problem,There appears to be a problem with my employee account. This is affecting my work.,Account,HIGH
+General IT request,I have a general IT support request. I need assistance as soon as possible.,Other,HIGH
+Application permission required,I receive an access denied error when opening the resource. Please help me resolve this issue.,Access,LOW
+Server access denied,I need access to an internal company system. The issue started recently.,Access,HIGH
+Suspicious email received,I received an email containing a suspicious link. The issue started recently.,Security,HIGH
+New employee IT setup,I need help with a technical problem. This is affecting my work.,Other,HIGH
+Mouse not responding,My laptop does not turn on when I press the power button. This is affecting my work.,Hardware,MEDIUM
