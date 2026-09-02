@@ -13,24 +13,28 @@ ChartJS.register(
   Legend
 );
 
-function TicketStatusChart({ stats }) {
+function TicketStatusChart({ stats, darkMode }) {
   const data = {
     labels: ["Open", "Closed", "Pending"],
 
     datasets: [
       {
         label: "Tickets",
+
         data: [
           stats.open,
           stats.closed,
           stats.pending,
         ],
+
         backgroundColor: [
           "#3B82F6",
           "#22C55E",
           "#F59E0B",
         ],
+
         borderWidth: 2,
+
         hoverOffset: 6,
       },
     ],
@@ -38,14 +42,19 @@ function TicketStatusChart({ stats }) {
 
   const options = {
     responsive: true,
+
     maintainAspectRatio: true,
 
     plugins: {
       legend: {
         position: "bottom",
+
         labels: {
           padding: 20,
+
           usePointStyle: true,
+
+          color: darkMode ? "#E5E7EB" : "#374151",
         },
       },
 
@@ -62,24 +71,43 @@ function TicketStatusChart({ stats }) {
   };
 
   return (
-    <div className="bg-white rounded-xl shadow-md p-4 sm:p-6">
-
-      {/* Chart Header */}
+    <div
+      className={`rounded-xl p-4 sm:p-6 transition-colors duration-300 ${
+        darkMode
+          ? "bg-slate-800"
+          : "bg-white"
+      }`}
+    >
       <div className="mb-4 sm:mb-6">
-        <h2 className="text-lg sm:text-xl font-semibold text-gray-800">
+
+        <h2
+          className={`text-lg sm:text-xl font-semibold ${
+            darkMode
+              ? "text-white"
+              : "text-gray-800"
+          }`}
+        >
           Ticket Status Distribution
         </h2>
 
-        <p className="text-sm text-gray-500 mt-1">
+        <p
+          className={`text-sm mt-1 ${
+            darkMode
+              ? "text-gray-400"
+              : "text-gray-500"
+          }`}
+        >
           Current distribution of support tickets
         </p>
+
       </div>
 
-      {/* Responsive Chart */}
       <div className="w-full max-w-md mx-auto">
-        <Pie data={data} options={options} />
+        <Pie
+          data={data}
+          options={options}
+        />
       </div>
-
     </div>
   );
 }

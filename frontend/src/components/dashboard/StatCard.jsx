@@ -1,23 +1,35 @@
-function StatCard({ title, value }) {
+function StatCard({ title, value, darkMode }) {
   return (
     <div
-      className="
-        bg-white
+      className={`
         rounded-xl
         shadow-md
         p-5 sm:p-6
-        border border-gray-100
+        border
         transition-all
-        duration-200
+        duration-300
         hover:-translate-y-1
         hover:shadow-lg
-      "
+        ${
+          darkMode
+            ? "bg-slate-800 border-slate-700"
+            : "bg-white border-gray-100"
+        }
+      `}
     >
-      <h3 className="text-gray-500 text-xs sm:text-sm font-medium">
+      <h3
+        className={`text-xs sm:text-sm font-medium ${
+          darkMode ? "text-gray-400" : "text-gray-500"
+        }`}
+      >
         {title}
       </h3>
 
-      <p className="text-2xl sm:text-3xl font-bold text-gray-900 mt-2">
+      <p
+        className={`text-2xl sm:text-3xl font-bold mt-2 ${
+          darkMode ? "text-white" : "text-gray-900"
+        }`}
+      >
         {value}
       </p>
     </div>
